@@ -1,0 +1,8 @@
+﻿  AVLProject1.cpp
+C:\Users\wynnr\source\repos\AVLProject1\AVLProject1\AVLProject1.cpp(160,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\AVLProject1\AVLProject1\AVLProject1.cpp(333,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\AVLProject1\AVLProject1\AVLProject1.cpp(371,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\AVLProject1\AVLProject1\AVLProject1.cpp(385,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\AVLProject1\AVLProject1\AVLProject1.cpp(466,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wynnr\source\repos\AVLProject1\AVLProject1\AVLProject1.cpp(140): warning C4715: 'AVLTree::removeHelper': not all control paths return a value
+  AVLProject1.vcxproj -> C:\Users\wynnr\source\repos\AVLProject1\Debug\AVLProject1.exe
